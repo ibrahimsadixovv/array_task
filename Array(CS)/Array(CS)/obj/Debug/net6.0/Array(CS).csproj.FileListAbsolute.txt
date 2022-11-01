@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\bin\Debug\net6.0\Array(CS).exe
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\bin\Debug\net6.0\Array(CS).deps.json
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\bin\Debug\net6.0\Array(CS).runtimeconfig.json
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\bin\Debug\net6.0\Array(CS).dll
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\bin\Debug\net6.0\Array(CS).pdb
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).AssemblyInfo.cs
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).dll
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\refint\Array(CS).dll
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).pdb
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\Array(CS).genruntimeconfig.cache
+C:\Users\User\Desktop\Array Ibo\Array(CS)\Array(CS)\obj\Debug\net6.0\ref\Array(CS).dll
